@@ -15,8 +15,13 @@ public class Main {
         System.out.println("fds");
     }
 
+    public void testMethodForDevelop(){
+        System.out.println("fds");
+    }
 
-
+    public void testMethodForDev(){
+        System.out.println("fds");
+    }
 
     public static int min(int a, int b){
         return Math.min(a, b);
