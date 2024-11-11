@@ -22,6 +22,14 @@ public class Main {
         System.out.println("fds");
     }
 
+    public void testMethod24(){
+        System.out.println("fds");
+    }
+
+    public void testMethod25(){
+        System.out.println("fds");
+    }
+
 
 
 
