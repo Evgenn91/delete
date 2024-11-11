@@ -22,13 +22,15 @@ public class Main {
         System.out.println("fds");
     }
 
-    public void testMethod21(){
+    public void testMethod24(){
         System.out.println("fds");
     }
 
-    public void testMethod22(){
+    public void testMethod25(){
         System.out.println("fds");
     }
+
+
 
 
 
