@@ -1,9 +1,6 @@
 public enum TestEnum {
     holding("холдинг"),
-    organization("организация"),
-    division("подразделение"),
-    filial("филиал"),
-    department("департамент");
+    organization("организация");
 
     private String name;
 
