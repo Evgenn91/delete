@@ -14,6 +14,14 @@ public class Main {
     public void testMethod(){
         System.out.println("fds");
     }
+    public void testMethod1(){
+        System.out.println("fds");
+    }
+
+    public void testMethod2(){
+        System.out.println("fds");
+    }
+
 
 
     public static int min(int a, int b){
