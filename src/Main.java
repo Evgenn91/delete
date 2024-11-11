@@ -22,6 +22,14 @@ public class Main {
         System.out.println("fds");
     }
 
+    public void testMethod21(){
+        System.out.println("fds");
+    }
+
+    public void testMethod22(){
+        System.out.println("fds");
+    }
+
 
 
     public static int min(int a, int b){
