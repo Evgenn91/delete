@@ -9,25 +9,15 @@ public class Main {
 //    Используй методы createTempFile(null, null) и write(Path, byte[]) класса Files, а также метод openStream() класса URL.
 
     public static void main(String[] args) throws Exception {
-        System.out.println(findDifference(new int[]{2, 2, 3}, new int[]{5, 4, 1}));
     }
 
-    public static int findDifference(final int[] firstCuboid, final int[] secondCuboid) {
-        return Math.abs((firstCuboid[0] * firstCuboid[1] * firstCuboid[2])-(secondCuboid[0] * secondCuboid[1] * secondCuboid[2]));
+    public void testMethod(){
+        System.out.println("fds");
     }
 
-    interface SimpleObject<T> {
-        SimpleObject<T> getInstance();
-    }
 
-    class StringObject implements SimpleObject<String> //допишите здесь ваш код
-    {
 
-        @Override
-        public SimpleObject<String> getInstance() {
-            return null;
-        }
-    }
+
     public static int min(int a, int b){
         return Math.min(a, b);
     }
