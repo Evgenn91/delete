@@ -1,14 +1,23 @@
 import java.io.*;
+import java.math.BigDecimal;
 import java.net.URL;
 import java.nio.file.*;
+import java.text.DecimalFormat;
+import java.text.DecimalFormatSymbols;
+import java.text.NumberFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
+
+
 
 public class Main {
 
 
 //    Используй методы createTempFile(null, null) и write(Path, byte[]) класса Files, а также метод openStream() класса URL.
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
+
     }
 
     public void testMethod(){
